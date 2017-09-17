@@ -9,6 +9,6 @@
 </style>
 </head>
 <body>
-<h2>Welcome to the BookStore Website</h2> <br/>
+<h2>Welcome to the BookStore </h2> <br/>
 </body>
 </html>
